@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Docs and Thoughts for aspiring technophiles.
+        Docs and Thoughts for aspiring Cybernauts.
         <p>Written by <strong>{author}</strong></p>
         {/* {` `}
         <a href={`https://twitter.com/${social.twitter}`}>

@@ -3,7 +3,7 @@ module.exports = {
     title: `Dartigo`,
     author: `Joel Gee Roy`,
     description: `Docs & Thoughts for aspiring cybernauts`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://dartigo.netlify.com/`,
     social: {
       twitter: `#`,
     },

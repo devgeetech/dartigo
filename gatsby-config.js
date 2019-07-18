@@ -62,7 +62,7 @@ module.exports = {
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#3C3C3C`,
-        display: `minimal-ui`,
+        display: `fullscreen`,
         icon: `content/assets/dart.png`,
       },
     },

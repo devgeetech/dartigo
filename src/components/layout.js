@@ -67,6 +67,22 @@ class Layout extends React.Component {
         
         <footer>
           <a href="https://www.bit.ly/prctalent" className={classes.myButton}>Register @ PRCTalent</a>
+          <br/>
+          <br/>
+          <a
+            href="https://mobile.twitter.com/joelgroy"
+            target="_blank"
+            rel="noopener noreferrer">twitter</a>{' '}
+          &bull;{' '}
+          <a
+            href="https://github.com/teamkinex"
+            target="_blank"
+            rel="noopener noreferrer">github</a>{' '}
+          &bull;{' '}
+          <a
+            href="mailto:joel.prc17cs006@student.providence.edu.in"
+            target="_blank"
+            rel="noopener noreferrer">Mail</a>
         </footer>
       </div>
     )

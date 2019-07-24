@@ -35,4 +35,3 @@ These platforms contain articles which give insights for building better develop
 - [Medium](https://medium.com/topic/technology)
 - [Hackernoon](https://hackernoon.com/)
 - [dev.to](https://dev.to/)
-

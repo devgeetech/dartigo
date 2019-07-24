@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Dartigo`,
-    author: `Joel Gee Roy`,
+    author: `Team KINEX`,
     description: `Docs & Thoughts for aspiring cybernauts`,
     siteUrl: `https://dartigo.netlify.com/`,
     social: {

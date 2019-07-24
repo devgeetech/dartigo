@@ -1,6 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import classes from './buttonStyle.module.css'
+
 import { rhythm, scale } from "../utils/typography"
 
 class Layout extends React.Component {
@@ -62,10 +64,9 @@ class Layout extends React.Component {
       >
         <header>{header}</header>
         <main>{children}</main>
+        
         <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="https://www.bit.ly/prctalent" className={classes.myButton}>Register @ PRCTalent</a>
         </footer>
       </div>
     )

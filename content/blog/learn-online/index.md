@@ -35,6 +35,5 @@ These platforms contain articles which give insights for building better develop
 - [Medium](https://medium.com/topic/technology)
 - [Hackernoon](https://hackernoon.com/)
 - [dev.to](https://dev.to/)
-***
-##Learn basics of programming - CS50
-CS50 is a 7 week course taught by the faculty of Harvard University. The course is available on [edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+
+

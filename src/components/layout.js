@@ -66,9 +66,6 @@ class Layout extends React.Component {
         <main>{children}</main>
         
         <footer>
-          <a href="https://www.bit.ly/prctalent" className={classes.myButton}>Register @ PRCTalent</a>
-          <br/>
-          <br/>
           <a
             href="https://mobile.twitter.com/joelgroy"
             target="_blank"

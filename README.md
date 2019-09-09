@@ -8,7 +8,11 @@
   Dartigo
 </h1>
 
-Dartigo is a tech blog made using React and Gatsby and based off gatsby-starter-blog. 
+Dartigo is a tech blog made using React + Gatsby and based off gatsby-starter-blog. Dartigo is hosted on [netlify](https://www.netlify.com/).
+
+## Contributing
+
+The community is encouraged to write technical posts and contributing them to the blog. The team will be reviewing pull requests and informative posts will be selected and uploaded to Dartigo.
 
 ## 🎓 Learning Gatsby
 
@@ -20,8 +24,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/smalllikeart" title="smalllikeart">smalllikeart</a> from <a href="https://www.flaticon.com/"                 title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"                 title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
-## 💫 Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-blog)
-
-<!-- AUTO-GENERATED-CONTENT:END -->

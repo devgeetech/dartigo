@@ -52,6 +52,4 @@ Go to the Firebase console again (You’ll be redirected after creating the proj
 
 There’s a lot more to explore. Visit the official [Firebase Docs](https://firebase.google.com/docs) or [Firebase Youtube Channel](https://www.youtube.com/user/Firebase) for tutorials and Help.
 
->As this post is getting large, We'll continue exploring firebase in the next Post. Keep exploring..
-
->[Part-2](/firebase-II)
+>As this post is getting large, We’ll continue exploring firebase in the next Post. Keep exploring...

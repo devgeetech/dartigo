@@ -52,3 +52,5 @@ Goto the Firebase console again (You'll obviously be redirected after creating t
 There's a lot more to explore. Give a try. Visit the official [Firebase Docs](https://firebase.google.com/docs) or [FIrebase Youtube Channel](https://www.youtube.com/user/Firebase) for tutorials and Help.
 
 >As this post is getting large, We'll continue exploring firebase in the next Post. Keep exploring..
+
+>[Part-2](/firebase-III)
